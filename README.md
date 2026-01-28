@@ -2,9 +2,7 @@
 CIS 376 Spring 2026 Course Page
 
 possible ideas:
-- movie database (like netflix)
-- calendar app
-- shopping app
+- Digital Library for Book Recommendations (Netflix, but for books)
 
 
 I like the layout of the amazon page. The different categories being their own buttons makes it nice to look at.
